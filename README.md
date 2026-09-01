@@ -68,7 +68,7 @@ cd YOUR_REPOSITORY_NAME
 **Shaheryar Mukhtar**
 - **Role**: Junior Android Developer & Computer Science Undergraduate
 - **Tech Stack**: Kotlin, Jetpack Compose, Android SDK, Firebase, Clean Architecture
-- **GitHub**: [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- **GitHub**: [github.com/YOUR_GITHUB_USERNAME](https://github.com/Shaheryar007308)
 
 ---
 
